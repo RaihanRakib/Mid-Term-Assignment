@@ -1,0 +1,13 @@
+C:\Users\rakib\Desktop\C SHARP\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\netcoreapp3.1\UniversityManagementSystem.exe
+C:\Users\rakib\Desktop\C SHARP\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\netcoreapp3.1\UniversityManagementSystem.deps.json
+C:\Users\rakib\Desktop\C SHARP\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\netcoreapp3.1\UniversityManagementSystem.runtimeconfig.json
+C:\Users\rakib\Desktop\C SHARP\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\netcoreapp3.1\UniversityManagementSystem.runtimeconfig.dev.json
+C:\Users\rakib\Desktop\C SHARP\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\netcoreapp3.1\UniversityManagementSystem.dll
+C:\Users\rakib\Desktop\C SHARP\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\netcoreapp3.1\UniversityManagementSystem.pdb
+C:\Users\rakib\Desktop\C SHARP\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\netcoreapp3.1\UniversityManagementSystem.csprojAssemblyReference.cache
+C:\Users\rakib\Desktop\C SHARP\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\netcoreapp3.1\UniversityManagementSystem.AssemblyInfoInputs.cache
+C:\Users\rakib\Desktop\C SHARP\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\netcoreapp3.1\UniversityManagementSystem.AssemblyInfo.cs
+C:\Users\rakib\Desktop\C SHARP\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\netcoreapp3.1\UniversityManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\rakib\Desktop\C SHARP\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\netcoreapp3.1\UniversityManagementSystem.dll
+C:\Users\rakib\Desktop\C SHARP\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\netcoreapp3.1\UniversityManagementSystem.pdb
+C:\Users\rakib\Desktop\C SHARP\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\netcoreapp3.1\UniversityManagementSystem.genruntimeconfig.cache
